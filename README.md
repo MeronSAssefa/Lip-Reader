@@ -1,4 +1,4 @@
-# Lip Reading
+ # Lip Reading
 
 Lip Reading is a deep learning project based on the LipNet architecture for visual speech recognition (lip reading). It processes video frames of a speaker's mouth and predicts the spoken text using a neural network trained with Connectionist Temporal Classification (CTC) loss. The project includes a Streamlit web application for interactive video upload, processing, and real-time predictions.
 
